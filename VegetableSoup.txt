@@ -6,4 +6,5 @@ Ingredients:
  - seven tomatoes
  - two onions
  - bouillon
-
+ - water
+ - half a cauliflower
